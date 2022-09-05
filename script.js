@@ -58,6 +58,12 @@ function syncCharacterAmount(e) {
   characterAmountRange.value = value
 }
 
+// function copyToClipboard() {  // Trying to figure out how to copy to clipboard
+//   passwordDisplay.textContent.select();
+//   navigator.clipboard.writeText(passwordDisplay.textContent);
+//   alert("Copied the text: " + passwordDisplay.textContent);
+// }
+  
 
 
 

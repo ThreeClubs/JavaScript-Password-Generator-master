@@ -62,9 +62,10 @@ em {
   align-items: center;
   word-break: break-all;
   border-radius: .5rem;
-  font-weight: 400;
+  font-weight: 500;
   font-family: monospace;
   text-align: center;
+  font-size: 1.2rem;
 }
 
 .btn {
@@ -100,7 +101,7 @@ section {
   border: none;
   color: #ffffff ;
   font-size: 1.4rem;
-  padding: 15px 95px;
+  padding: 15px 105px;
   cursor: pointer;
   border-radius: 1rem;
   text-shadow: 0px 0px 3px black;
@@ -109,4 +110,6 @@ section {
 input {
   accent-color: #55F991;
 }
+
+
 

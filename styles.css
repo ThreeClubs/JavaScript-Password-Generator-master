@@ -96,7 +96,7 @@ section {
    align-items: center;
 }
 
-#clipboard {
+/* #clipboard {
   background-color: #27aa7e;
   border: none;
   color: #ffffff ;
@@ -105,7 +105,7 @@ section {
   cursor: pointer;
   border-radius: 1rem;
   text-shadow: 0px 0px 3px black;
-}
+} */
 
 input {
   accent-color: #55F991;
